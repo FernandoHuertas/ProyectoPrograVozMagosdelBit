@@ -1,0 +1,2 @@
+[{'Section': 'A1', 'Points': [{'Name': 'P1', 'Participations': [{'Participante': 'Mikel', 'text': 'segundo proyecto programado'}, {'Participante': 'Mikel', 'text': 'textos para Pick Up para sesiones de órganos colegiados'}]}]}]
+{'Mikel'}
